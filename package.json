@@ -1,0 +1,15 @@
+{
+  "name": "telebot",
+  "version": "1.0.0",
+  "description": "dgsjl",
+  "main": "index.js",
+  "scripts": {
+    "test": "asd"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.69.0",
+    "telegram-node-bot": "^2.0.3"
+  }
+}
